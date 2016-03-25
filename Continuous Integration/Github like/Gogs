@@ -1,0 +1,8 @@
+Gogs
+----
+Git service written in Go
+Open Source
+Issue tracker
+Activity timeline
+SSH/HTTP(S) protocol support
+SMTP/LDAP/reverse proxy authentication support

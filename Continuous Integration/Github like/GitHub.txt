@@ -1,0 +1,31 @@
+GitHub
+-------
+Open source
+Interactive UI
+Source Control
+Issue tracker
+Pull requests
+Issues & features planning
+Code reviews
+Inline comments
+Side by side view for comparing 
+News feed/ timeline
+Possible integrations - 
+	Sentry
+	Rollbar
+	Airbrake
+	HuBoard
+	Nodejitsu
+	Bugify
+	Lighthouse
+	Grove
+	CopperEgg
+	Acunote
+	BugHerd
+	Nitrous.IO
+	Bugsnag
+	HipChat
+	Codeship
+	Cloud9 IDE
+	Honeybadger
+	Cloudability

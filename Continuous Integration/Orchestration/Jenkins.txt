@@ -1,0 +1,20 @@
+Jenkins
+-------
+Open source
+Integration
+
+Gitolite 
+hudsonTracker 
+NetBeans plugin
+Eclipse plugin
+Mylyn connector
+IntelliJ plugin
+Hudson Portlet 
+Firefox Add-on Build Monitor 
+Google Chrome extension 
+Ant Job Clone script
+Bash Job Clone script
+Monitoring Jenkins jobs from tools that support Cruise Control.
+Emacs jenkins-watch for monitoring Jenkins on your emacs status bar.
+Jenkins Indicator Gnome 3 Extension to monitor status in Gnome 3 status bar
+Clone from Github with Jenkins running behind an HTTP(S) proxy

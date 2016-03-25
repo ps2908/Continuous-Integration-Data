@@ -1,0 +1,23 @@
+Bitbucket
+---------
+Distributed version control - git 
+Source control 
+Interactive UI
+Integrates with many apis and services
+Pull requests
+code review
+inline comments
+Side by side comparing
+Issue tracking 
+support for mercurial & git
+news feed
+Possible integrations - 
+
+	Sentry
+	Grove
+	HipChat
+	Codeship
+	Cloud9 IDE
+	JIRA
+	Bamboo
+	

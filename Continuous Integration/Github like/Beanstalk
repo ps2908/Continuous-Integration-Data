@@ -1,0 +1,24 @@
+Beanstalk
+---------
+A single process to commit code, review with the team, and deploy 
+Git and SVN Hosting
+Code review
+Issue tracking
+Code review coverage statistics
+Instant deployment
+security
+read-only or full read/write permissions
+Timeline of changes and who did the changes
+Side by side comparison
+Blame Tool- View the line-by-line history of every file using Beanstalk's blame tool. Quickly see who was responsible for each line of code and which revision it belonged to.
+Possible integrations - 
+	Amazon CloudFront
+	Amazon S3
+	Zendesk
+	HipChat
+	BaseCamp
+	Harvest
+	FogBugz
+	CampFire
+	Bugify
+	LightHouse

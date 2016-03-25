@@ -1,0 +1,14 @@
+GitLab
+------
+Git repository management 
+Enterprises install GitLab on-premise and connect it with LDAP and Active Directory servers for secure authentication and authorization.
+Code review
+Inline comments
+adding new code snippets
+flexible to include webhooks
+Issue tracking
+Newsfeed
+Merge requests after commit
+
+Possible Integrations- 
+	Gitlab CI

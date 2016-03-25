@@ -1,0 +1,26 @@
+Jenkins
+Codeship
+Teamcity
+continuum
+bamboo
+snap ci
+shippable
+continua ci
+travis ci
+circle ci
+cruise control
+gump
+strider
+buildbot
+wercker
+drone.io
+semaphore
+solano ci
+buildkite
+magnum ci
+testling
+githost ci
+dotci
+appveyor
+testkitchen
+go.cd

@@ -1,0 +1,59 @@
+Maintain a code repository
+
+	Version control
+		Distributed - allows many software developers to work on a given project without requiring them to share a common network ; Git, Mercurial, DCVS ; 
+		Centalized - a single “central” copy of your project somewhere (probably on a server) ; CVS, Subversion ; IBM Rational clearcase, Perforce, Team Foundation Server; 
+		
+Automate the build 
+
+	compiling computer source code into binary code, packaging binary code, and running automated tests.
+	Build automation utility – like Make, MS build, Ant, etc. Whose primary purpose is to generate build artifacts through activities like compiling and linking source code.
+	Build automation servers – These are general web based tools that execute build automation utilities on a scheduled or triggered basis; a continuous integration server is a type of build automation server.
+
+	On-demand automation 
+	Scheduled automation
+	Triggered automation
+	Build tools -
+	Ant; 
+	Buildr; 
+	Continuum - https://continuum.apache.org/features.html; 
+	Maven; 
+	AnthillPro; 
+	Bamboo; 
+	CruiseControl; 
+	ElectricCommander; 
+	Gradle;  
+	Jenkins; 
+	make; 
+	JitPack;
+	Buck;
+	Pants;
+	Capsule;
+	Bazel;
+	
+Make the build self-testing
+	http://java-source.net/open-source/testing-tools
+	http://www.softwaretestinghelp.com/java-testing-tools/
+	http://stackoverflow.com/questions/10379816/selecting-java-automation-testing-tools-for-web-application
+Commit to the baseline every day
+Every commit should be built
+Keep the build fast
+Test in a clone of the production environment
+Everyone can see the results of the latest build
+
+Version control
+task assigning
+ide
+changes
+commits (pull req)
+build 
+test
+integrate
+test
+
+Pattern	Run - a software build with every change applied to the Repository.
+Anti-patterns - Scheduled builds, nightly builds, building periodically, building exclusively on developer's machines, not building at all.
+
+____________________________
+
+server-configuration-and-automation
